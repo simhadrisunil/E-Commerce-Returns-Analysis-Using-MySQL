@@ -1,0 +1,61 @@
+ReturnID,OrderID,ReturnDate,ReturnReason,ReturnStatus
+R001,O1497,2024-06-30,Late Delivery,Completed
+R002,O1417,2024-10-15,Not as Described,Completed
+R003,O1128,2024-07-10,Damaged Product,Completed
+R004,O1397,2025-05-19,Not as Described,Completed
+R005,O1331,2024-10-27,Size Issue,Completed
+R006,O1240,2025-05-17,Not as Described,Completed
+R007,O1440,2024-08-09,Late Delivery,Completed
+R008,O1398,2025-03-26,Late Delivery,Completed
+R009,O1259,2024-09-30,Size Issue,Completed
+R010,O1097,2025-05-25,Not as Described,Completed
+R011,O1192,2024-11-15,Size Issue,Completed
+R012,O1033,2024-09-02,Not as Described,Completed
+R013,O1239,2025-04-24,Size Issue,Completed
+R014,O1144,2025-05-29,Damaged Product,Completed
+R015,O1124,2025-04-17,Not as Described,Completed
+R016,O1229,2025-04-14,Damaged Product,Completed
+R017,O1175,2025-03-20,Not as Described,Completed
+R018,O1159,2025-02-18,Damaged Product,Completed
+R019,O1001,2025-02-20,Damaged Product,Completed
+R020,O1178,2025-04-16,Size Issue,Completed
+R021,O1106,2024-10-25,Not as Described,Completed
+R022,O1173,2024-07-27,Late Delivery,Completed
+R023,O1167,2025-03-30,Size Issue,Completed
+R024,O1340,2024-07-07,Not as Described,Completed
+R025,O1479,2025-04-30,Size Issue,Completed
+R026,O1166,2025-05-22,Late Delivery,Completed
+R027,O1358,2025-03-06,Not as Described,Completed
+R028,O1306,2025-04-28,Late Delivery,Completed
+R029,O1426,2024-12-30,Not as Described,Completed
+R030,O1108,2025-03-19,Damaged Product,Completed
+R031,O1465,2025-01-09,Late Delivery,Completed
+R032,O1302,2024-10-05,Late Delivery,Completed
+R033,O1393,2025-06-02,Late Delivery,Completed
+R034,O1454,2025-03-14,Not as Described,Completed
+R035,O1371,2024-08-08,Damaged Product,Completed
+R036,O1318,2024-07-22,Not as Described,Completed
+R037,O1427,2025-02-03,Not as Described,Completed
+R038,O1202,2025-04-22,Damaged Product,Completed
+R039,O1004,2024-09-08,Not as Described,Completed
+R040,O1104,2024-10-03,Size Issue,Completed
+R041,O1110,2024-10-30,Not as Described,Completed
+R042,O1332,2025-05-18,Not as Described,Completed
+R043,O1337,2025-06-05,Size Issue,Completed
+R044,O1090,2024-11-18,Late Delivery,Completed
+R045,O1044,2025-01-31,Late Delivery,Completed
+R046,O1275,2025-02-05,Late Delivery,Completed
+R047,O1260,2025-05-09,Late Delivery,Completed
+R048,O1291,2025-02-21,Not as Described,Completed
+R049,O1463,2024-07-05,Size Issue,Completed
+R050,O1281,2024-07-28,Size Issue,Completed
+R051,O1147,2024-11-18,Late Delivery,Completed
+R052,O1423,2025-02-08,Late Delivery,Completed
+R053,O1268,2025-02-01,Size Issue,Completed
+R054,O1027,2024-06-28,Late Delivery,Completed
+R055,O1216,2025-02-28,Not as Described,Completed
+R056,O1261,2025-05-19,Not as Described,Completed
+R057,O1018,2025-05-08,Not as Described,Completed
+R058,O1234,2025-04-18,Not as Described,Completed
+R059,O1355,2025-01-30,Damaged Product,Completed
+R060,O1041,2025-04-03,Damaged Product,Completed

@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,Subcategory,Brand,CostPrice,UnitPrice
+P001,Wireless Mouse,Electronics,Audio,Samsung,375,561
+P002,Bluetooth Speaker,Electronics,Men,ClayArt,730,1208
+P003,Keyboard,Electronics,Kitchenware,Logitech,850,1239
+P004,Smartwatch,Electronics,Kitchenware,Samsung,168,492
+P005,Cotton T-Shirt,Apparel,Audio,JBL,785,966
+P006,Jeans,Apparel,Kitchenware,Philips,456,849
+P007,Hoodie,Apparel,Audio,Roadster,965,1404
+P008,Sneakers,Apparel,Lighting,Philips,258,519
+P009,LED Bulb 9W,Home & Living,Accessories,ClayArt,487,553
+P010,Ceramic Mug,Home & Living,Audio,Roadster,149,618
+P011,Wall Clock,Home & Living,Lighting,ClayArt,525,728
+P012,Cushion Cover,Home & Living,Lighting,ClayArt,651,752

@@ -1,0 +1,501 @@
+OrderID,DeliveryDate,CourierPartner,DeliveryStatus,DeliveryDelayDays
+O1001,2025-02-21,DTDC,Delivered,6
+O1002,2025-04-22,BlueDart,Delivered,3
+O1003,2024-11-30,DTDC,Delivered,5
+O1004,2024-09-02,Ecom Express,Delivered,4
+O1005,2025-03-13,Ecom Express,Delivered,5
+O1006,2025-05-30,Delhivery,Delivered,2
+O1007,2024-07-30,DTDC,Delivered,4
+O1008,2024-11-25,Ecom Express,Delivered,6
+O1009,2025-03-12,DTDC,Delivered,1
+O1010,2024-11-29,Delhivery,Delivered,4
+O1011,2024-08-21,Delhivery,Delivered,4
+O1012,2024-09-18,Ecom Express,Delivered,0
+O1013,2025-06-08,BlueDart,Delivered,0
+O1014,2024-08-02,Ecom Express,Delivered,5
+O1015,2025-04-26,DTDC,Delivered,6
+O1016,2025-03-07,DTDC,Delivered,3
+O1017,2024-10-16,Delhivery,Delivered,4
+O1018,2025-05-04,Delhivery,Delivered,2
+O1019,2025-01-22,Delhivery,Delivered,2
+O1020,2025-06-08,Delhivery,Delivered,6
+O1021,2025-01-14,Ecom Express,Delivered,3
+O1022,2025-01-04,BlueDart,Delivered,4
+O1023,2025-01-14,Ecom Express,Delivered,5
+O1024,2024-07-22,Delhivery,Delivered,1
+O1025,2024-07-19,Ecom Express,Delivered,0
+O1026,2024-11-20,Ecom Express,Delivered,5
+O1027,2024-06-25,Ecom Express,Delivered,4
+O1028,2025-02-11,DTDC,Delivered,0
+O1029,2025-01-11,Ecom Express,Delivered,2
+O1030,2025-01-04,Delhivery,Delivered,0
+O1031,2025-04-08,DTDC,Delivered,2
+O1032,2024-08-06,Delhivery,Delivered,2
+O1033,2024-09-04,BlueDart,Delivered,5
+O1034,2025-01-31,Delhivery,Delivered,3
+O1035,2024-09-12,BlueDart,Delivered,0
+O1036,2025-06-04,Delhivery,Delivered,0
+O1037,2025-03-09,Ecom Express,Delivered,5
+O1038,2024-10-16,DTDC,Delivered,0
+O1039,2024-08-22,Delhivery,Delivered,0
+O1040,2024-11-09,Delhivery,Delivered,0
+O1041,2025-03-22,BlueDart,Delivered,1
+O1042,2024-12-18,Delhivery,Delivered,4
+O1043,2025-05-20,BlueDart,Delivered,0
+O1044,2025-01-19,Delhivery,Delivered,1
+O1045,2025-03-31,Ecom Express,Delivered,0
+O1046,2025-01-01,DTDC,Delivered,1
+O1047,2024-07-26,BlueDart,Delivered,1
+O1048,2025-03-13,DTDC,Delivered,6
+O1049,2024-07-13,Delhivery,Delivered,3
+O1050,2024-12-17,Ecom Express,Delivered,4
+O1051,2024-06-28,BlueDart,Delivered,1
+O1052,2024-11-17,Delhivery,Delivered,4
+O1053,2025-04-11,BlueDart,Delivered,0
+O1054,2024-07-15,DTDC,Delivered,5
+O1055,2024-12-27,DTDC,Delivered,3
+O1056,2024-10-18,BlueDart,Delivered,0
+O1057,2024-06-27,BlueDart,Delivered,3
+O1058,2025-01-04,Ecom Express,Delivered,3
+O1059,2024-07-13,Delhivery,Delivered,1
+O1060,2024-10-29,DTDC,Delivered,3
+O1061,2025-05-31,DTDC,Delivered,2
+O1062,2025-03-23,DTDC,Delivered,1
+O1063,2024-12-14,Ecom Express,Delivered,3
+O1064,2024-09-11,Delhivery,Delivered,2
+O1065,2025-03-19,Delhivery,Delivered,2
+O1066,2025-05-03,BlueDart,Delivered,1
+O1067,2025-04-25,Delhivery,Delivered,6
+O1068,2024-10-22,BlueDart,Delivered,4
+O1069,2025-06-03,DTDC,Delivered,1
+O1070,2025-04-17,DTDC,Delivered,2
+O1071,2024-08-03,Delhivery,Delivered,5
+O1072,2024-08-15,DTDC,Delivered,6
+O1073,2025-04-18,BlueDart,Delivered,4
+O1074,2025-05-29,DTDC,Delivered,1
+O1075,2025-05-06,DTDC,Delivered,5
+O1076,2025-05-27,Delhivery,Delivered,4
+O1077,2024-07-25,BlueDart,Delivered,0
+O1078,2025-04-05,BlueDart,Delivered,4
+O1079,2025-04-14,BlueDart,Delivered,0
+O1080,2025-05-31,BlueDart,Delivered,4
+O1081,2025-05-29,Ecom Express,Delivered,3
+O1082,2024-07-13,Delhivery,Delivered,0
+O1083,2024-08-26,Delhivery,Delivered,3
+O1084,2025-06-10,Delhivery,Delivered,2
+O1085,2025-01-26,BlueDart,Delivered,2
+O1086,2025-03-14,DTDC,Delivered,5
+O1087,2025-02-06,BlueDart,Delivered,2
+O1088,2024-11-28,DTDC,Delivered,1
+O1089,2025-05-29,Ecom Express,Delivered,5
+O1090,2024-11-17,Ecom Express,Delivered,2
+O1091,2025-02-01,DTDC,Delivered,0
+O1092,2024-09-18,DTDC,Delivered,5
+O1093,2025-04-23,Ecom Express,Delivered,4
+O1094,2025-04-06,Ecom Express,Delivered,2
+O1095,2024-11-24,BlueDart,Delivered,2
+O1096,2025-03-24,Ecom Express,Delivered,6
+O1097,2025-05-18,Delhivery,Delivered,0
+O1098,2024-11-06,Ecom Express,Delivered,1
+O1099,2024-09-27,Delhivery,Delivered,2
+O1100,2025-04-28,DTDC,Delivered,2
+O1101,2025-03-11,BlueDart,Delivered,3
+O1102,2025-04-04,Delhivery,Delivered,5
+O1103,2024-12-26,DTDC,Delivered,2
+O1104,2024-09-23,DTDC,Delivered,0
+O1105,2025-05-17,Ecom Express,Delivered,1
+O1106,2024-10-19,BlueDart,Delivered,4
+O1107,2025-04-20,Delhivery,Delivered,4
+O1108,2025-03-14,Delhivery,Delivered,5
+O1109,2024-10-06,DTDC,Delivered,0
+O1110,2024-10-28,BlueDart,Delivered,4
+O1111,2025-01-19,Ecom Express,Delivered,5
+O1112,2024-12-14,Delhivery,Delivered,0
+O1113,2025-05-04,BlueDart,Delivered,3
+O1114,2025-03-07,Delhivery,Delivered,5
+O1115,2025-04-12,Delhivery,Delivered,4
+O1116,2024-12-04,Delhivery,Delivered,2
+O1117,2024-09-06,Ecom Express,Delivered,3
+O1118,2024-10-21,Delhivery,Delivered,0
+O1119,2024-10-17,Delhivery,Delivered,1
+O1120,2025-06-10,BlueDart,Delivered,6
+O1121,2025-04-15,DTDC,Delivered,1
+O1122,2025-05-04,BlueDart,Delivered,3
+O1123,2025-04-13,Delhivery,Delivered,1
+O1124,2025-04-17,Ecom Express,Delivered,4
+O1125,2024-08-14,BlueDart,Delivered,3
+O1126,2025-04-25,BlueDart,Delivered,5
+O1127,2024-08-28,Delhivery,Delivered,4
+O1128,2024-07-13,Ecom Express,Delivered,5
+O1129,2024-10-14,Delhivery,Delivered,4
+O1130,2024-11-06,Delhivery,Delivered,1
+O1131,2024-12-31,Ecom Express,Delivered,3
+O1132,2024-09-20,BlueDart,Delivered,1
+O1133,2024-08-05,Ecom Express,Delivered,2
+O1134,2025-05-20,Delhivery,Delivered,4
+O1135,2025-02-19,Delhivery,Delivered,6
+O1136,2024-09-28,Ecom Express,Delivered,6
+O1137,2024-12-08,Ecom Express,Delivered,2
+O1138,2025-04-13,DTDC,Delivered,3
+O1139,2025-05-03,BlueDart,Delivered,4
+O1140,2024-10-01,DTDC,Delivered,5
+O1141,2024-12-30,DTDC,Delivered,4
+O1142,2024-10-29,DTDC,Delivered,5
+O1143,2025-04-03,Delhivery,Delivered,6
+O1144,2025-05-22,DTDC,Delivered,3
+O1145,2024-12-04,Delhivery,Delivered,1
+O1146,2025-05-17,DTDC,Delivered,4
+O1147,2024-11-12,Ecom Express,Delivered,4
+O1148,2024-08-16,Ecom Express,Delivered,0
+O1149,2024-08-29,BlueDart,Delivered,3
+O1150,2024-08-05,BlueDart,Delivered,0
+O1151,2025-04-28,Ecom Express,Delivered,1
+O1152,2024-08-13,DTDC,Delivered,2
+O1153,2024-08-20,Ecom Express,Delivered,3
+O1154,2024-11-27,Delhivery,Delivered,3
+O1155,2024-11-26,Delhivery,Delivered,2
+O1156,2024-08-07,BlueDart,Delivered,4
+O1157,2025-03-02,BlueDart,Delivered,2
+O1158,2024-09-18,Ecom Express,Delivered,1
+O1159,2025-02-21,Ecom Express,Delivered,3
+O1160,2024-12-22,DTDC,Delivered,1
+O1161,2024-12-14,BlueDart,Delivered,2
+O1162,2025-01-17,Delhivery,Delivered,0
+O1163,2025-06-04,Ecom Express,Delivered,2
+O1164,2025-03-15,BlueDart,Delivered,6
+O1165,2025-04-25,DTDC,Delivered,0
+O1166,2025-05-24,BlueDart,Delivered,4
+O1167,2025-03-22,Ecom Express,Delivered,2
+O1168,2025-05-19,Ecom Express,Delivered,2
+O1169,2024-12-23,Ecom Express,Delivered,0
+O1170,2024-11-29,Delhivery,Delivered,6
+O1171,2024-09-04,BlueDart,Delivered,3
+O1172,2025-04-03,BlueDart,Delivered,5
+O1173,2024-07-14,BlueDart,Delivered,0
+O1174,2024-11-10,DTDC,Delivered,5
+O1175,2025-03-11,Delhivery,Delivered,0
+O1176,2024-12-05,BlueDart,Delivered,3
+O1177,2024-10-11,BlueDart,Delivered,0
+O1178,2025-04-12,Ecom Express,Delivered,4
+O1179,2025-04-24,DTDC,Delivered,4
+O1180,2025-06-03,BlueDart,Delivered,5
+O1181,2025-06-11,DTDC,Delivered,0
+O1182,2024-09-05,DTDC,Delivered,4
+O1183,2024-10-08,DTDC,Delivered,2
+O1184,2025-05-04,Ecom Express,Delivered,1
+O1185,2024-11-11,Ecom Express,Delivered,6
+O1186,2024-08-07,BlueDart,Delivered,5
+O1187,2025-03-29,Delhivery,Delivered,6
+O1188,2024-11-11,Ecom Express,Delivered,6
+O1189,2025-04-08,BlueDart,Delivered,0
+O1190,2024-09-28,Delhivery,Delivered,2
+O1191,2024-12-12,DTDC,Delivered,2
+O1192,2024-11-09,BlueDart,Delivered,2
+O1193,2025-03-14,Ecom Express,Delivered,1
+O1194,2024-06-27,Delhivery,Delivered,1
+O1195,2024-11-19,BlueDart,Delivered,4
+O1196,2024-11-25,BlueDart,Delivered,2
+O1197,2024-12-02,Ecom Express,Delivered,0
+O1198,2024-09-17,DTDC,Delivered,1
+O1199,2024-09-21,BlueDart,Delivered,6
+O1200,2024-10-13,DTDC,Delivered,1
+O1201,2025-03-11,Delhivery,Delivered,4
+O1202,2025-04-12,Ecom Express,Delivered,1
+O1203,2024-07-07,BlueDart,Delivered,2
+O1204,2024-12-19,BlueDart,Delivered,1
+O1205,2024-09-11,Delhivery,Delivered,0
+O1206,2024-12-08,BlueDart,Delivered,2
+O1207,2025-02-06,Delhivery,Delivered,1
+O1208,2025-06-07,Delhivery,Delivered,0
+O1209,2025-01-23,DTDC,Delivered,5
+O1210,2025-02-03,Delhivery,Delivered,1
+O1211,2025-01-28,DTDC,Delivered,1
+O1212,2025-04-04,Ecom Express,Delivered,6
+O1213,2025-04-04,Delhivery,Delivered,1
+O1214,2024-09-06,Ecom Express,Delivered,2
+O1215,2024-12-30,BlueDart,Delivered,3
+O1216,2025-02-28,Ecom Express,Delivered,3
+O1217,2025-04-15,DTDC,Delivered,4
+O1218,2025-01-10,DTDC,Delivered,3
+O1219,2024-09-06,Ecom Express,Delivered,0
+O1220,2024-06-27,Delhivery,Delivered,6
+O1221,2025-05-26,DTDC,Delivered,1
+O1222,2024-12-09,Delhivery,Delivered,3
+O1223,2025-02-19,DTDC,Delivered,6
+O1224,2024-08-29,Delhivery,Delivered,3
+O1225,2025-02-08,Ecom Express,Delivered,3
+O1226,2024-11-08,DTDC,Delivered,2
+O1227,2024-07-24,BlueDart,Delivered,0
+O1228,2025-01-31,BlueDart,Delivered,3
+O1229,2025-04-12,Delhivery,Delivered,0
+O1230,2024-08-05,Ecom Express,Delivered,6
+O1231,2025-05-31,Delhivery,Delivered,0
+O1232,2025-02-20,Ecom Express,Delivered,2
+O1233,2025-03-27,Delhivery,Delivered,0
+O1234,2025-04-07,BlueDart,Delivered,1
+O1235,2024-07-02,Ecom Express,Delivered,1
+O1236,2024-12-15,Ecom Express,Delivered,2
+O1237,2025-05-14,Delhivery,Delivered,2
+O1238,2024-08-21,Ecom Express,Delivered,2
+O1239,2025-04-14,Ecom Express,Delivered,2
+O1240,2025-05-16,Delhivery,Delivered,0
+O1241,2025-05-25,Delhivery,Delivered,6
+O1242,2024-11-19,Ecom Express,Delivered,5
+O1243,2024-08-27,Ecom Express,Delivered,0
+O1244,2024-07-02,Ecom Express,Delivered,3
+O1245,2024-12-01,Ecom Express,Delivered,1
+O1246,2024-06-22,Delhivery,Delivered,0
+O1247,2024-06-23,Delhivery,Delivered,3
+O1248,2025-01-29,Delhivery,Delivered,0
+O1249,2024-07-21,DTDC,Delivered,2
+O1250,2024-08-23,DTDC,Delivered,4
+O1251,2025-02-21,BlueDart,Delivered,1
+O1252,2024-09-29,Ecom Express,Delivered,2
+O1253,2025-02-08,BlueDart,Delivered,5
+O1254,2024-09-20,DTDC,Delivered,4
+O1255,2024-10-03,Delhivery,Delivered,2
+O1256,2025-01-17,Delhivery,Delivered,1
+O1257,2024-11-29,Delhivery,Delivered,5
+O1258,2024-07-21,Delhivery,Delivered,4
+O1259,2024-09-18,Delhivery,Delivered,0
+O1260,2025-05-08,DTDC,Delivered,2
+O1261,2025-05-11,Ecom Express,Delivered,2
+O1262,2024-11-01,DTDC,Delivered,0
+O1263,2025-03-27,DTDC,Delivered,1
+O1264,2024-12-27,DTDC,Delivered,1
+O1265,2024-08-30,Ecom Express,Delivered,1
+O1266,2024-12-19,BlueDart,Delivered,0
+O1267,2024-09-25,BlueDart,Delivered,3
+O1268,2025-02-01,DTDC,Delivered,4
+O1269,2024-07-10,DTDC,Delivered,2
+O1270,2025-02-07,Ecom Express,Delivered,4
+O1271,2025-03-16,DTDC,Delivered,4
+O1272,2025-02-24,Ecom Express,Delivered,3
+O1273,2025-04-28,DTDC,Delivered,4
+O1274,2024-06-26,Delhivery,Delivered,3
+O1275,2025-01-28,DTDC,Delivered,0
+O1276,2024-12-08,BlueDart,Delivered,5
+O1277,2025-02-04,BlueDart,Delivered,0
+O1278,2025-01-23,DTDC,Delivered,1
+O1279,2025-04-14,BlueDart,Delivered,1
+O1280,2024-11-22,Delhivery,Delivered,5
+O1281,2024-07-24,Delhivery,Delivered,0
+O1282,2024-06-27,BlueDart,Delivered,0
+O1283,2024-08-04,Delhivery,Delivered,0
+O1284,2024-12-30,Ecom Express,Delivered,1
+O1285,2024-12-21,BlueDart,Delivered,0
+O1286,2024-12-12,Ecom Express,Delivered,3
+O1287,2024-08-31,DTDC,Delivered,4
+O1288,2024-09-14,Delhivery,Delivered,4
+O1289,2024-07-17,Ecom Express,Delivered,5
+O1290,2025-06-09,Ecom Express,Delivered,0
+O1291,2025-02-18,Ecom Express,Delivered,1
+O1292,2025-01-25,Delhivery,Delivered,6
+O1293,2024-08-10,Delhivery,Delivered,2
+O1294,2024-09-03,DTDC,Delivered,3
+O1295,2024-10-01,Delhivery,Delivered,3
+O1296,2024-11-01,DTDC,Delivered,3
+O1297,2025-02-04,Ecom Express,Delivered,2
+O1298,2025-02-12,Ecom Express,Delivered,1
+O1299,2025-02-14,DTDC,Delivered,3
+O1300,2024-12-07,BlueDart,Delivered,4
+O1301,2025-05-06,Ecom Express,Delivered,1
+O1302,2024-10-02,DTDC,Delivered,0
+O1303,2024-06-21,BlueDart,Delivered,0
+O1304,2025-05-23,BlueDart,Delivered,3
+O1305,2025-02-14,Ecom Express,Delivered,3
+O1306,2025-04-25,DTDC,Delivered,1
+O1307,2025-03-08,Delhivery,Delivered,4
+O1308,2024-09-30,Ecom Express,Delivered,0
+O1309,2024-10-17,Delhivery,Delivered,6
+O1310,2025-04-20,DTDC,Delivered,3
+O1311,2024-07-03,BlueDart,Delivered,2
+O1312,2025-04-07,BlueDart,Delivered,2
+O1313,2024-08-31,Delhivery,Delivered,2
+O1314,2025-01-29,BlueDart,Delivered,0
+O1315,2025-04-15,DTDC,Delivered,1
+O1316,2025-03-03,Delhivery,Delivered,4
+O1317,2024-08-04,DTDC,Delivered,1
+O1318,2024-07-18,BlueDart,Delivered,0
+O1319,2024-11-24,BlueDart,Delivered,3
+O1320,2024-07-06,Ecom Express,Delivered,2
+O1321,2024-12-26,Delhivery,Delivered,1
+O1322,2024-11-10,DTDC,Delivered,4
+O1323,2024-12-18,DTDC,Delivered,1
+O1324,2025-04-26,Delhivery,Delivered,2
+O1325,2024-10-20,DTDC,Delivered,1
+O1326,2025-01-22,Delhivery,Delivered,0
+O1327,2025-03-10,Ecom Express,Delivered,2
+O1328,2025-01-23,DTDC,Delivered,3
+O1329,2024-09-21,Ecom Express,Delivered,4
+O1330,2025-05-15,Ecom Express,Delivered,3
+O1331,2024-10-25,Delhivery,Delivered,0
+O1332,2025-05-10,BlueDart,Delivered,1
+O1333,2025-02-04,BlueDart,Delivered,5
+O1334,2024-12-18,DTDC,Delivered,1
+O1335,2025-02-22,BlueDart,Delivered,1
+O1336,2024-10-16,BlueDart,Delivered,1
+O1337,2025-06-01,Delhivery,Delivered,0
+O1338,2025-01-14,Delhivery,Delivered,1
+O1339,2024-12-09,DTDC,Delivered,1
+O1340,2024-07-04,Ecom Express,Delivered,2
+O1341,2025-01-13,BlueDart,Delivered,5
+O1342,2025-02-12,BlueDart,Delivered,4
+O1343,2025-02-14,Ecom Express,Delivered,0
+O1344,2024-07-28,DTDC,Delivered,2
+O1345,2024-06-30,BlueDart,Delivered,4
+O1346,2024-08-19,DTDC,Delivered,2
+O1347,2024-11-06,BlueDart,Delivered,2
+O1348,2024-07-14,Delhivery,Delivered,2
+O1349,2024-12-02,DTDC,Delivered,6
+O1350,2024-06-21,DTDC,Delivered,1
+O1351,2024-11-22,DTDC,Delivered,4
+O1352,2025-05-07,Delhivery,Delivered,2
+O1353,2025-01-25,Delhivery,Delivered,5
+O1354,2025-04-21,Delhivery,Delivered,2
+O1355,2025-01-21,BlueDart,Delivered,2
+O1356,2024-07-06,DTDC,Delivered,0
+O1357,2025-01-18,DTDC,Delivered,1
+O1358,2025-03-05,BlueDart,Delivered,2
+O1359,2025-05-02,Delhivery,Delivered,2
+O1360,2024-06-25,BlueDart,Delivered,1
+O1361,2024-07-16,Delhivery,Delivered,4
+O1362,2025-05-28,Delhivery,Delivered,4
+O1363,2025-05-28,Delhivery,Delivered,1
+O1364,2025-06-04,Delhivery,Delivered,0
+O1365,2024-10-22,DTDC,Delivered,3
+O1366,2025-03-20,Delhivery,Delivered,4
+O1367,2024-09-20,DTDC,Delivered,1
+O1368,2025-01-06,Ecom Express,Delivered,4
+O1369,2024-08-10,DTDC,Delivered,1
+O1370,2024-11-29,Ecom Express,Delivered,4
+O1371,2024-07-30,DTDC,Delivered,4
+O1372,2025-05-01,BlueDart,Delivered,0
+O1373,2025-03-01,BlueDart,Delivered,4
+O1374,2024-12-20,BlueDart,Delivered,2
+O1375,2025-01-05,Ecom Express,Delivered,4
+O1376,2024-08-14,Ecom Express,Delivered,2
+O1377,2025-04-16,DTDC,Delivered,3
+O1378,2024-11-17,Ecom Express,Delivered,2
+O1379,2024-08-21,Delhivery,Delivered,3
+O1380,2024-07-19,Ecom Express,Delivered,4
+O1381,2024-11-22,Ecom Express,Delivered,5
+O1382,2024-10-29,BlueDart,Delivered,2
+O1383,2024-11-18,Delhivery,Delivered,3
+O1384,2025-04-19,Delhivery,Delivered,3
+O1385,2025-02-09,BlueDart,Delivered,6
+O1386,2025-03-18,DTDC,Delivered,6
+O1387,2025-02-26,Ecom Express,Delivered,4
+O1388,2025-04-04,Delhivery,Delivered,2
+O1389,2025-06-14,BlueDart,Delivered,3
+O1390,2024-12-06,DTDC,Delivered,3
+O1391,2025-05-23,Delhivery,Delivered,2
+O1392,2025-03-15,Ecom Express,Delivered,5
+O1393,2025-05-26,Ecom Express,Delivered,5
+O1394,2025-01-05,DTDC,Delivered,0
+O1395,2025-04-15,BlueDart,Delivered,6
+O1396,2024-11-03,DTDC,Delivered,3
+O1397,2025-05-09,DTDC,Delivered,0
+O1398,2025-03-15,BlueDart,Delivered,1
+O1399,2025-02-10,Delhivery,Delivered,3
+O1400,2025-02-21,DTDC,Delivered,0
+O1401,2024-09-10,BlueDart,Delivered,0
+O1402,2025-03-24,Ecom Express,Delivered,4
+O1403,2024-07-08,DTDC,Delivered,4
+O1404,2025-02-25,BlueDart,Delivered,2
+O1405,2024-08-22,Ecom Express,Delivered,2
+O1406,2024-12-29,BlueDart,Delivered,3
+O1407,2025-01-11,Ecom Express,Delivered,2
+O1408,2025-05-27,BlueDart,Delivered,3
+O1409,2025-04-22,Delhivery,Delivered,4
+O1410,2025-02-05,BlueDart,Delivered,3
+O1411,2024-12-09,BlueDart,Delivered,2
+O1412,2025-02-24,DTDC,Delivered,4
+O1413,2024-11-16,BlueDart,Delivered,0
+O1414,2025-04-17,DTDC,Delivered,1
+O1415,2024-08-04,BlueDart,Delivered,2
+O1416,2025-02-09,Delhivery,Delivered,5
+O1417,2024-10-08,Delhivery,Delivered,2
+O1418,2025-05-19,DTDC,Delivered,4
+O1419,2025-02-11,DTDC,Delivered,4
+O1420,2025-04-16,BlueDart,Delivered,5
+O1421,2024-09-15,Delhivery,Delivered,3
+O1422,2025-06-09,Ecom Express,Delivered,1
+O1423,2025-02-05,BlueDart,Delivered,2
+O1424,2024-07-26,Delhivery,Delivered,2
+O1425,2024-12-27,Ecom Express,Delivered,3
+O1426,2024-12-26,Ecom Express,Delivered,0
+O1427,2025-01-27,Delhivery,Delivered,2
+O1428,2025-03-24,Ecom Express,Delivered,4
+O1429,2025-06-04,DTDC,Delivered,4
+O1430,2025-05-16,DTDC,Delivered,2
+O1431,2024-08-21,Delhivery,Delivered,4
+O1432,2024-06-24,BlueDart,Delivered,0
+O1433,2024-07-03,BlueDart,Delivered,4
+O1434,2024-11-18,DTDC,Delivered,1
+O1435,2024-07-04,Delhivery,Delivered,3
+O1436,2024-10-12,DTDC,Delivered,6
+O1437,2024-09-04,Ecom Express,Delivered,2
+O1438,2025-03-13,DTDC,Delivered,3
+O1439,2025-05-27,DTDC,Delivered,0
+O1440,2024-08-08,Ecom Express,Delivered,1
+O1441,2024-11-14,DTDC,Delivered,3
+O1442,2024-09-19,DTDC,Delivered,3
+O1443,2024-09-23,DTDC,Delivered,6
+O1444,2024-08-01,Delhivery,Delivered,3
+O1445,2025-04-29,Ecom Express,Delivered,0
+O1446,2024-12-13,Ecom Express,Delivered,4
+O1447,2025-01-30,BlueDart,Delivered,3
+O1448,2025-02-25,BlueDart,Delivered,0
+O1449,2025-03-31,DTDC,Delivered,3
+O1450,2025-02-16,Ecom Express,Delivered,3
+O1451,2024-10-22,Ecom Express,Delivered,4
+O1452,2025-03-24,DTDC,Delivered,3
+O1453,2024-12-11,Delhivery,Delivered,3
+O1454,2025-03-06,BlueDart,Delivered,0
+O1455,2024-09-02,Ecom Express,Delivered,0
+O1456,2024-08-11,Delhivery,Delivered,3
+O1457,2025-04-24,Ecom Express,Delivered,3
+O1458,2025-05-07,DTDC,Delivered,0
+O1459,2025-01-30,Ecom Express,Delivered,3
+O1460,2024-07-01,BlueDart,Delivered,1
+O1461,2025-02-10,Delhivery,Delivered,4
+O1462,2024-07-15,DTDC,Delivered,1
+O1463,2024-06-29,Delhivery,Delivered,3
+O1464,2025-04-15,Ecom Express,Delivered,1
+O1465,2024-12-31,BlueDart,Delivered,1
+O1466,2025-05-07,BlueDart,Delivered,1
+O1467,2024-09-30,Delhivery,Delivered,6
+O1468,2025-04-28,Ecom Express,Delivered,0
+O1469,2024-09-16,DTDC,Delivered,6
+O1470,2025-05-15,Delhivery,Delivered,1
+O1471,2024-08-22,BlueDart,Delivered,4
+O1472,2024-08-24,DTDC,Delivered,4
+O1473,2025-05-18,DTDC,Delivered,4
+O1474,2025-01-04,Delhivery,Delivered,2
+O1475,2025-05-05,BlueDart,Delivered,2
+O1476,2025-04-18,DTDC,Delivered,0
+O1477,2025-03-17,DTDC,Delivered,5
+O1478,2025-03-17,Ecom Express,Delivered,6
+O1479,2025-04-20,Ecom Express,Delivered,2
+O1480,2025-02-24,Delhivery,Delivered,1
+O1481,2024-08-08,DTDC,Delivered,4
+O1482,2024-06-30,Ecom Express,Delivered,1
+O1483,2025-02-09,Delhivery,Delivered,3
+O1484,2025-04-13,BlueDart,Delivered,0
+O1485,2025-02-17,Ecom Express,Delivered,1
+O1486,2025-02-02,Ecom Express,Delivered,3
+O1487,2024-10-05,DTDC,Delivered,1
+O1488,2025-03-13,Ecom Express,Delivered,3
+O1489,2025-03-14,Ecom Express,Delivered,1
+O1490,2024-10-12,BlueDart,Delivered,0
+O1491,2025-04-15,BlueDart,Delivered,2
+O1492,2024-12-31,BlueDart,Delivered,2
+O1493,2024-08-20,BlueDart,Delivered,0
+O1494,2024-12-06,Delhivery,Delivered,6
+O1495,2024-08-19,Delhivery,Delivered,4
+O1496,2024-12-06,BlueDart,Delivered,3
+O1497,2024-06-28,BlueDart,Delivered,3
+O1498,2024-09-05,BlueDart,Delivered,6
+O1499,2024-08-17,BlueDart,Delivered,3
+O1500,2025-04-08,Delhivery,Delivered,0
