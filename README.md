@@ -1,5 +1,7 @@
 # 📦 E-Commerce Returns Analysis Using MySQL
 
+![Screenshot 2025-06-24 121136](https://github.com/user-attachments/assets/6c5289b4-026f-463e-8486-48ab0fe8741b)
+
 This project explores return patterns, customer behavior, product issues, and delivery delay impacts in an e-commerce environment. All data processing, modeling, and analysis were done using **pure SQL (MySQL)**.
 
 ---
