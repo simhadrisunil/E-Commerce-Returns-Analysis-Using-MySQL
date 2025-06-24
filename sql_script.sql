@@ -1,3 +1,4 @@
+
 -- Create database and use it
 CREATE DATABASE ecommerce_returns;
 USE ecommerce_returns;
